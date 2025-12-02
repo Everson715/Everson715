@@ -1,45 +1,58 @@
-# Olá! Me chamo José Everson 👋
+# Olá! Sou o José
 
-[![Seguidores](https://custom-icon-badges.demolab.com/github/followers/Everson715?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/Everson715?tab=followers)
-
----
-
-## ℹ️ Sobre Mim
+## Sobre Mim
 
 Sou **Desenvolvedor FullStack**, com 22 anos e natural de Pernambuco. Atualmente, estou cursando o 5º período de **Engenharia de Software** pela **UPE - Universidade de Pernambuco**.
 
----
-
-### 🤖 Linguagens e Tecnologias
-
-<p align="left">
-  <img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" title="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-  <img alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-  <img alt="Oracle" title="Oracle" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
-</p>
+[![Seguidores](https://custom-icon-badges.demolab.com/github/followers/Everson715?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/Everson715?tab=followers) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-everson)
 
 ---
 
-### 📊 Estatísticas
+## 🚀 &nbsp;TECH STACK & CORE LANGUAGES
 
-<p align="center">
-  <img
-    align="left"
-    alt="Estatísticas do GitHub"
-    height="180"
-    style="padding-right: 20px;"
-    src="https://github-readme-stats.vercel.app/api?username=Everson715&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+<div align="left" style="display: inline_block">
+  <img src="https://img.shields.io/badge/Python-000003?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000003?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-000003?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000003?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000003?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
 
-  <img
-    align="left"
-    alt="Linguagens Mais Usadas"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everson715&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
+<br>
+
+## 🌐 &nbsp;FRONT-END
+
+<div align="left" style="display: inline_block">
+  <img src="https://img.shields.io/badge/HTML5-000003?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000003?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000003?style=for-the-badge&logo=react&logoColor=white" />
+</div>
+
+<br>
+
+## 💾 &nbsp;DATABASE
+
+<div align="left" style="display: inline_block">
+  <img src="https://img.shields.io/badge/PostgreSQL-000003?style=for-the-badge&logo=postgresql&logoColor=white" /></div>
+
+<br>
+
+---
+
+<div align="center">
+  <h2>📊 &nbsp;GITHUB ANALYTICS</h2>
+  <div style="display: flex; justify-content: space-between;">
+    <img
+      width="49%"
+      height="195px"
+      alt="Estatísticas do GitHub"
+      src="https://github-readme-stats.vercel.app/api?username=Everson715&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    />
+    <img
+      width="49%"
+      height="195px"
+      alt="Linguagens Mais Usadas"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everson715&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9"
+    />
+  </div>
+</div>
