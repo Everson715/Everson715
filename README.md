@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou **Desenvolvedor FullStack**, com 22 anos e natural de Pernambuco. Atualmente, estou cursando o 5º período de **Engenharia de Software** pela **UPE - Universidade de Pernambuco**.
+Sou **Desenvolvedor FullStack**, com 22 anos e natural de Pernambuco. Atualmente, estou cursando o 6º período de **Engenharia de Software** pela **UPE - Universidade de Pernambuco**.
 
 [![Seguidores](https://custom-icon-badges.demolab.com/github/followers/Everson715?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/Everson715?tab=followers) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-everson)
 
