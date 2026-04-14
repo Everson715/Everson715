@@ -37,17 +37,18 @@ Sou um entusiasta de **Engenharia de Software** focado em construir sistemas esc
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=Everson715&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everson715&layout=compact&theme=tokyonight&langs_count=8" 
-  />
+  <img height="180em" src="https://github-readme-stats-one.vercel.app/api?username=Everson715&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Everson715&theme=tokyonight" />
+</div>
+
+<br>
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Everson715&theme=dracula&area=true&hide_border=true&color=6272a4" />
 </div>
 
 ---
