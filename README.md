@@ -6,7 +6,7 @@ Sou um entusiasta de **Engenharia de Software** focado em construir sistemas esc
 
 - 🎓 Graduando em Engenharia de Software (UPE - Campus Surubim).
 - 🛠️ Experiência em ecossistemas **Node.js (NestJS)** e **PHP (Laravel)**.
-- 🐧 Usuário entusiasta de **Arch Linux** e automação via terminal.
+- 🐧 Usuário entusiasta de **Linux** e automação via terminal.
 - 🏗️ Desenvolvendo soluções com foco em escalabilidade, filas (RabbitMQ) e bancos de dados relacionais.
 
 [![Seguidores](https://custom-icon-badges.demolab.com/github/followers/Everson715?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white)](https://github.com/Everson715?tab=followers) 
