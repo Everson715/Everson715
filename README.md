@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um entusiasta de **Engenharia de Software** focado em construir sistemas escaláveis e eficientes. Atualmente, curso o 6º período na **UPE (Universidade de Pernambuco)** e atuo como **Desenvolvedor FullStack**, com forte inclinação para arquitetura de **Backend**.
+Sou um entusiasta de **Engenharia de Software** focado em construir sistemas escaláveis e eficientes. Atualmente, curso o 7º período na **UPE (Universidade de Pernambuco)** e atuo como **Desenvolvedor FullStack**, com forte inclinação para arquitetura de **Backend**.
 
 - 🎓 Graduando em Engenharia de Software (UPE - Campus Surubim).
 - 🛠️ Experiência em ecossistemas **Node.js (NestJS)** e **PHP (Laravel)**.
